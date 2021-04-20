@@ -1,1 +1,0 @@
-//Criar a lógica da páguina de inspeção aqui
