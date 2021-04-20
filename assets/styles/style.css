@@ -19,7 +19,6 @@ body{
 h1 {
 	text-align: center;
 	font-size: 54px;
-    margin-bottom: 40px;
 }
 
 .pokedex {
@@ -53,148 +52,63 @@ h1 {
 }
 
 .steel {
-	background-color: #B8B8D0;
+	background-color: #f4f4f4;
 }
 
 .fire {
-	background-color: #ff9346;
+	background-color: #FDDFDF;
 }
 
 .grass {
-	background-color: #78C850;
+	background-color: #DEFDE0;
 }
 
 .electric {
-	background-color: #F8D030;
+	background-color: #FCF7DE;
 }
 
-.water{
-    background-color: #6890F0;
-}
-
-.ice{
-    background-color: #98D8D8;
-}
-
-.ghost{
-    background-color: #705898;
+.water, .ice {
+	background-color: #DEF3FD;
 }
 
 .ground {
-	background-color: #E0C068;
+	background-color: #f4e7da;
 }
 
 .rock {
-	background-color: #B8A038;
+	background-color: #d5d5d4;
 }
 
 .fairy {
-	background-color: #EE99AC;
+	background-color: #fceaff;
 }
 
 .poison {
-	background-color: #A040A0;
+	background-color: #98d7a5;
 }
 
 .bug {
-	background-color: #c8d64c;
+	background-color: #f8d5a3;
 }
 
 .dragon {
-	background-color: #7038F8;
+	background-color: #97b3e6;
 }
 
 .psychic {
-	background-color: #F85888;
+	background-color: #eaeda1;
 }
 
 .flying {
-	background-color: #A890F0;
+	background-color: #F5F5F5;
 }
 
 .fighting {
-	background-color: #bb4640;
+	background-color: #E6E0D4;
 }
 
 .normal {
-	background-color: #A8A878;
-}
-
-.dark{
-    background-color: #705848;
-}
-
-.border-steel {
-	border: 7px solid #B8B8D0;
-}
-
-.border-fire {
-    border: 7px solid #ff9346;
-}
-
-.border-grass {
-    border: 7px solid #78C850;
-}
-
-.border-electric {
-    border: 7px solid #F8D030;
-}
-
-.border-water{
-    border: 7px solid #66caf5;
-}
-
-.border-ice{
-    border: 7px solid #98D8D8;
-}
-
-.border-ghost{
-    border: 7px solid #705898;
-}
-
-.border-ground {
-    border: 7px solid #E0C068;
-}
-
-.border-rock {
-    border: 7px solid #B8A038;
-
-}
-
-.border-fairy {
-    border: 7px solid #EE99AC;
-}
-
-.border-poison {
-    border: 7px solid #A040A0;
-}
-
-.border-bug {
-    border: 7px solid #c8d64c;
-}
-
-.border-dragon {
-    border: 7px solid #7038F8;
-}
-
-.border-psychic {
-    border: 7px solid #F85888;
-}
-
-.border-flying {
-    border: 7px solid #A890F0;
-}
-
-.border-fighting {
-    border: 7px solid #bb4640;
-}
-
-.border-normal {
-    border: 7px solid #A8A878;
-}
-
-.border-dark{
-    border: 7px solid #705848
+	background-color: #F5F5F5;
 }
 
 .card:hover {
